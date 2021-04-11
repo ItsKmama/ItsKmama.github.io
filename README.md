@@ -1,2 +1,1 @@
-# ItsKmama.github.io
- 
+# zuri-responsive-design-starter
